@@ -1,12 +1,13 @@
-# ELCei
-Tool resmi Light Cyber Indonesia
+# AsuAsu
+
+Tool resmi Yaa
 # Install
 $ pkg install git
 $ pkg install python2
 $ pkg install bash
 # Run
-$ cd ELCei
-$ chmod 777 ELCei.sh
-$ sh ELCei.sh
+$ cd ApaLu
+$ chmod 777 loe.sh
+$ sh loe.sh
 
-# This tool use username & password, and you must download it
+# This tool use username & password, and you must take it
