@@ -60,6 +60,7 @@ read -p "╚═══════════════➢➢ " pil
 
 if [ $pil = '1' ]
 then
+cd tool
 python2 run.py
 fi
 
@@ -74,5 +75,6 @@ fi
 
 if [ $pil = '3' ]
 then
+cd install
 python2 install.py
 fi
