@@ -74,6 +74,5 @@ fi
 
 if [ $pil = '3' ]
 then
-cd install
 python2 install.py
 fi
