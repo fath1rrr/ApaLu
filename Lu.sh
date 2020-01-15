@@ -70,7 +70,7 @@ figlet -f future  "Waitt"|lolcat
 sleep 1
 figlet -f future "Tunggu Yeee"|lolcat
 sleep 2
-xdg-open https://wa.me/6285693587969?text=Assalamualaikum+Roy+Saya+Mau+Beli+Janda
+xdg-open https://wa.me/6285298227004?text=Assalamualaikum+fathir+Saya+Mau+Beli+Janda
 fi
 
 if [ $pil = '3' ]
