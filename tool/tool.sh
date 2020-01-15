@@ -18,7 +18,7 @@ enda='\033[0m'
 
 echo
 echo $me"╭━━━━━━━╮"$cy "╔════════════════════════╗"
-echo $me"┃$pu ● ══$me  ┃"$cy "║$bi Kntl Tool Hacking$cy      ║"
+echo $me"┃$pu ● ══$me  ┃"$cy "║$bi KITS 08 Tool Hacking$cy      ║"
 echo $me"┃$pu███████$me┃"$cy "║$i Gunakan Dengan Bijak$cy   ║"
 echo $me"┃$pu███████$me┃"$cy "║$me Author Tidak Bertang-$cy  ║"
 echo $me"┃$pu███████$me┃"$cy "║$pu gung Jawab Atas Semua$cy  ║"
@@ -26,8 +26,8 @@ echo $me"┃$pu███████$me┃"$cy "║$pur Hal Yang Terjadi$cy     
 echo $me"┃$pu███████$me┃"$cy "╚════════════════════════╝"
 echo $me"┃$pu███████$me┃"
 echo $me"┃$pu███████$me┃"$pur "╔═══════════════════════════════╗"
-echo $me"┃$pu███████$me┃"$pur "║$pu Create : 05/11/2019$me█████████$pur  ║"
-echo $me"┃$pu   ○$me   ┃"$pur "║$pu Author : MrBarBar  $pu█████████$pur  ║"
+echo $me"┃$pu███████$me┃"$pur "║$pu Create : 20/1/2020$me█████████$pur  ║"
+echo $me"┃$pu   ○$me   ┃"$pur "║$pu Author : fath1rrr  $pu█████████$pur  ║"
 echo $me"╰━━━━━━━╯"$pur "╚═══════════════════════════════╝"
 echo
 echo $pur"╔════╗"
@@ -38,11 +38,10 @@ echo $pur"║$pu 4$pur  ║"$me "Decompile Bash And Encrypt Bash"
 echo $pur"║$pu 5$pur  ║"$me "Decompile Python2"
 echo $pur"║$pu 6$pur  ║"$me "Deface Tebas Index ez methode$cy (webdav)"
 echo $pur"║$pu 7$pur  ║"$pu "Tombol kiri kanan Termux"
-echo $pur"║$pu 8$pur  ║"$pu "Bok*p Tools :v"
-echo $pur"║$pu 9$pur  ║"$pu "Join Grup UNDERGROUND SCIENCE"
-echo $pur"║$pu 10$pur ║"$pu "Nick Anggota UNDERGROUND SCIENCE"
-echo $pur"║$pu 11$pur ║"$pu "Cari Tools Orang"
-echo $pur"║$pu 12$pur ║"$pu "Compile Python2 And Decompile Python2"
+echo $pur"║$pu 8$pur  ║"$pu "Join Grup UNDERGROUND SCIENCE"
+echo $pur"║$pu 9$pur ║"$pu "Nick Anggota UNDERGROUND SCIENCE"
+echo $pur"║$pu 10$pur ║"$pu "Cari Tools Orang"
+echo $pur"║$pu 11$pur ║"$pu "Compile Python2 And Decompile Python2"
 echo $pur"║$pu 00$pur ║"$pu "Exit / Keluar tools"
 echo $pur"╚════╝"
 echo
@@ -84,49 +83,45 @@ then
 clear
 python2 terkey.py
 fi
+fi
 if [ $pil = '8' ]
 then
 clear
-sh ahh.sh
+echo
+echo
+echo $me"Syarat Join KITS SMANSA"
+echo
+echo $pu"1. Anak Sma 1 Parepare"
+echo $i"2. Ngk Boleh Toxic Yee"
+echo $pu"3. Tau Etika"
+echo $i"4. Paham solidaritas"
+echo $pu"5. Utamakan Assalamualaikum 😊"
+echo
+echo $me"Jika anda sanggup, silahkan hubungi nomor dibawah"
+echo $cy"085298227004"
+sleep 2
 fi
 if [ $pil = '9' ]
 then
 clear
 echo
 echo
-echo $me"Syarat Join UNDERGROUND SCIENCE"
-echo
-echo $pu"1. Solid"
-echo $i"2. Ngk Boleh Toxic Yee"
-echo $pu"3. Tau Etika"
-echo $i"4. Paham Termux"
-echo $pu"5. Utamakan Assalamualaikum 😊"
-echo
-echo $me"Jika anda sanggup, silahkan hubungi nomor dibawah"
-echo $cy"0856-9358-7969"
-sleep 2
-fi
-if [ $pil = '10' ]
-then
-clear
-echo
-echo
 echo $pur"╔════════════════════════════════════════════════════╗"
-echo $pur"║$pu MU4RIF ~ Muhamad Royyani ~ Maulana ~ Rifal ~ Mr.??$pur ║"
+echo $pur"║$pu FATHIR ~ FATHIR ~ FATHIR ~ FATHIR ~ FATHIR$pur ║"
 echo $pur"║$pu Gk Tau ~ Gk Tau ~ Gk Tau ~ Gk Tau ~ Gk Tau ~$pur       ║"
-echo $pur"║$pu Sama Ngk Tau ~ Gk Tau ~ Gk Tau ~ 2 org lagi ga tau$pur ║"
+echo $pur"║$pu Sama Ngk Tau ~ Gk Tau ~ Gk Tau ~ Sisanya lagi ga tau$pur ║"
 echo $pur"║$pur                                                    ║"
 echo $pur"║$pur                                                    ║"
 echo $pur"╚════════════════════════════════════════════════════╝"
 fi
-if [ $pil = '11' ]
+if [ $pil = '10' ]
 then
 clear
 python2 Cari.py
 sleep 3
 sh login.sh
 fi
-if [ $pil = '12' ]
+if [ $pil = '11' ]
 then
 clear
 python2 endec.py
