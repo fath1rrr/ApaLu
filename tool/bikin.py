@@ -27,7 +27,7 @@ os.system('clear')
 print
 kntl (R+'############################')
 kntl ('#Script Deface v1.0        #')
-kntl (W+'#Creator  : Mr.BarBarW+    #')
+kntl (W+'#Creator  : Fath1rrr    #')
 kntl ('#Team : SOLO PLAYER        #')
 kntl ('############################')
 print
@@ -52,7 +52,7 @@ warna = raw_input('Warna : ')
 print
 print 
 
-fo = open("Roy.html","w")
+fo = open("Fathir.html","w")
 
 messagescript1 = """<html><head><title>"""
 
