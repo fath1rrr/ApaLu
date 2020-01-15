@@ -7,7 +7,7 @@ $ pkg install python2
 $ pkg install bash
 # Run
 $ cd ApaLu
-$ chmod 777 loe.sh
-$ sh loe.sh
+$ chmod 123 Lu.sh
+$ sh Lu.sh
 
 # This tool use username & password, and you must take it
