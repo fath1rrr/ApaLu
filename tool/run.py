@@ -9,7 +9,7 @@ def slowprint(s):
         time.sleep(0.1 / 2)
 slowprint ('ASSALAMUALAIKUM WR WB')
 print
-slowprint('Selamat Datang User Di Newbie Tools')
+slowprint('Selamat Datang User Di KITS 08 Tool')
 slowprint(' Gunakan Tools Dengan Bijak, Dan Mohon Untuk Kalian')
 slowprint(' Yang Tahu Username & Password Tools Ini, Mohon')
 slowprint(' Untuk Tidak Menyebarluaskan, Biarkan Mereka Yang')
