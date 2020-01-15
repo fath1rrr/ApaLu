@@ -13,8 +13,8 @@ b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
 slowprint('  Shorcut for help you')
-slowprint('   Muhamad Royyani')
-slowprint(' https://wa.me/6285693587969')
+slowprint('   Ahmad Fathir')
+slowprint(' https://wa.me/6285298227004')
 slowprint('40')
 slowprint('Proses..')
 sleep(1)
