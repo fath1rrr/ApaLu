@@ -11,7 +11,7 @@ def babi(nob):
     sys.stdout.flush()
     time.sleep(0.1)
 
-babi('Selamat Datang user di program UNDERGROUND SCIENCE'.center(20))
+babi('Selamat Datang user di program percobaan KITS 08'.center(20))
 babi(' penginstallan bahan.....'.center(20))
 babi(' dimohon kepada user jangan meninggalkan'.center(20))
 babi(' terminal disaat penginstalan bahan'.center(20))
@@ -44,7 +44,7 @@ os.system('pip2 install requests mechanize')
 os.system('pip2 install bs4')
 os.system('pip2 install uncompyle6')
 print ("Penginstalan selesai")
-print ("Silahkan kembali ke tool UNDERGROUND SCIENCE")
-print ("Dengan cara menulis sh loe.sh")
+print ("Silahkan kembali ke tool KITS 08")
+print ("Dengan cara menulis sh Lu.sh")
 
 exit()
